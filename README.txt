@@ -1,6 +1,6 @@
-+-------------------------------------+
-| Bayes Classifier using GMM using PCA|
-+-------------------------------------+
++--------------------------------------+
+| Bayes Classifier using GMM using PCA |
++--------------------------------------+
 Author: Aayush Mishra
 
 This repository consists of programs to build Bayes Classifiers using Gaussian Mixture Model on reduced-dimensional representations obtained using Principal Component Analysis.
